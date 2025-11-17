@@ -15,3 +15,4 @@ ________________________________
 
 
 ## Dalam bentuk syntax
+![image](https://github.com/scellaa/labpy4/blob/b2c2199a6487dd88efb8d4b17ce745f399d0892c/in%20and%20out%20syntax/Input%20tabel%20nilai.png) | 
